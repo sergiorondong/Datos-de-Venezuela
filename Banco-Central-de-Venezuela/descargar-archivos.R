@@ -75,4 +75,4 @@ if (seleccion != 0)
   }
 }
 
-#rm (list = ls())  # eliminar variables
+rm (list = ls())  # eliminar variables
