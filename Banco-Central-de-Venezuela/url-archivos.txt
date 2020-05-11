@@ -1,0 +1,620 @@
+#-Este archivo contiene las url de las estadísticas disponibles en el portal
+#-del Banco Central de Venezuela.
+
+#-Precios ---------------------------------------------------------------------
+
+#-Consumidor
+"Precios/Consumidor"  # subditorio
+
+# Índice Nacional de Precios al Consumidor (INPC)
+"http://www.bcv.org.ve/sites/default/files/precios_consumidor/4_5_7_indice_y_variaciones_mensuales_serie_desde_dic_2007_1.xls"
+
+# INPC por agrupaciones
+"http://www.bcv.org.ve/sites/default/files/precios_consumidor/4_5_3_indice_mensual_por_agrupaciones.xls"
+"http://www.bcv.org.ve/sites/default/files/precios_consumidor/4_5_1_variaciones_mensuales_por_agrupaciones.xls"
+"http://www.bcv.org.ve/sites/default/files/precios_consumidor/4_5_3_indice_y_variaciones_promedio_por_agrupaciones.xls"
+"http://www.bcv.org.ve/sites/default/files/precios_consumidor/4_5_1_variaciones_acumuladas_por_agrupaciones.xls"
+
+# Series históricas
+"http://www.bcv.org.ve/sites/default/files/precios_consumidor/4_5_7_indice_y_variaciones_mensuales_serie_desde_dic_2007.xls"
+"http://www.bcv.org.ve/sites/default/files/precios_consumidor/4_1_7_amc_indice_y_variaciones_serie_desde_1950.xls"
+
+#-Mayorista
+"Precios/Mayorista" # subdirectorio
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/indices_de_precios_mayorista_nacional_e_importado_con_iva_y_sin_iva_mensualbase_2007.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/indices_de_precios_mayorista_nacional_e_importado_con_iva_y_sin_iva_trimestralbase_2007.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/indices_de_precios_mayorista_nacional_e_importado_con_iva_y_sin_iva_anualbase_2007.xls"
+
+#-Productor Manufacturero
+"Precios/Productor Manufacturero" # subdirectorio
+
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/precio_laspeyres_manufactura_con_iva_ciiu4_2007-2019.xlsx"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/precio_laspeyres_manufactura_con_iva_ciiu4_2007-2019_trimestral.xlsx"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/precio_laspeyres_manufactura_con_iva_ciiu4_2007-2019_anualizada.xlsx"
+
+#-Insumos de la Construcción
+"Precios/Insumos de la Construcción"  # subdirectorio
+
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/indice_de_precios_de_insumos_de_la_construccion_segun_nivel.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/indice_de_precios_de_insumos_de_la_construccion_segun_nivel_trimestral.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/indice_de_precios_de_insumos_de_la_construccion_segun_nivel_anual.xls"
+
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/indice_de_precios_de_insumos_de_la_construccion_a_nivel_de_productor_clasificado_por_agrupaciones_de_productos_mensual.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/indice_de_precios_de_insumos_de_la_construccion_a_nivel_de_productor_clasificado_por_agrupaciones_de_productos_trimestral.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/indice_de_precios_de_insumos_de_la_construccion_a_nivel_de_productor_clasificado_por_agrupaciones_de_productos_anual.xls"
+
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/indice_de_precios_de_insumos_de_la_construccion_a_nivel_de_mayorista_clasificado_por_agrupaciones_de_productos_mensual.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/indice_de_precios_de_insumos_de_la_construccion_a_nivel_de_mayorista_clasificado_por_agrupaciones_de_productos_trimestral.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/indice_de_precios_de_insumos_de_la_construccion_a_nivel_de_mayorista_clasificado_por_agrupaciones_de_productos_anual.xls"
+
+#-Metodologías
+"Precios/Metodologías"  # subdirectorio
+
+"http://www.bcv.org.ve/sites/default/files/documentos_metodologicos/preinpc0308.pdf"
+"http://www.bcv.org.ve/sites/default/files/documentos_metodologicos/metconstruccion97.pdf"
+
+#-Secotr Monetario ------------------------------------------------------------
+
+#-Base Monetaria
+"Sector Monetario/Base Monetaria" # subdirectorio
+
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_monetario/base_monetaria_semanal.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_monetario/base_monetaria_mensual.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_monetario/base_monetaria_anual.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_monetario/fuentes_de_la_base_monetaria._serie_1997-2000_semanal.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_monetario/usos_de_la_base_monetaria._serie_1997-2000_semanal.xls"
+
+#-Liquidez Monetaria
+"Sector Monetario/Liquidez Monetaria" # subdirectorio
+
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_monetario/liquidez_monetaria_semanal.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_monetario/liquidez_monetaria_mensual_33.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_monetario/liquidez_monetaria_anual.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_monetario/liquidez_monetaria._serie_1940-1991_anual.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_monetario/liquidez_monetaria._serie_1976-1995_mensual.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_monetario/liquidez_monetaria._serie_1976-1995_trimestral.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_monetario/liquidez_monetaria._serie_1989-1996_semanal.xls"
+
+#-Balances Monetarios
+"Sector Monetario/Balances Monetarios"  # subdirectorio
+
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_monetario/bcv._resumen_del_balance_monetario_mensual.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_monetario/bcos._com._univ._y_de_desarrollo._resumen_bal._monetario_consolidado_mensual.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_monetario/bcos._hipotecarios._resumen_balance_monetario_consolidado_mensual.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_monetario/sist._nac._ahorro-prestamo._resumen_balance_monetario_consolidado_mensual.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_monetario/bcos._inversion._resumen_balance_monetario_consolidado_mensual.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_monetario/fondos_act._liq._-_participaciones._resumen_balance_monet._consolidado_mensual.xls"
+
+#-Operaciones en Mercado Abierto
+"Sector Monetario/Operaciones en Mercado Abierto"
+
+"http://www.bcv.org.ve/sites/default/files/1_3_30_sin_formula.xls"
+"http://www.bcv.org.ve/sites/default/files/1_3_31_sin_formula.xls"
+
+#-Encaje Legal
+"Sector Monetario/Encaje Legal"
+
+# Coeficiente de Encaje
+"http://www.bcv.org.ve/sites/default/files/1_3_36.xls"
+
+# Posición de Encaje de las Instituciones Bancarias
+"http://www.bcv.org.ve/sites/default/files/1_2_10.xlsx"
+"http://www.bcv.org.ve/sites/default/files/1_3_23.xls"
+"http://www.bcv.org.ve/sites/default/files/1_2_10.xls"
+"http://www.bcv.org.ve/sites/default/files/1_3_23_0.xlsx"
+"http://www.bcv.org.ve/sites/default/files/1_2_10s_1.xls"
+"http://www.bcv.org.ve/sites/default/files/1_3_23s1.xls"
+"http://www.bcv.org.ve/sites/default/files/1_3_23s.xls"
+
+#-Asistencia Financiera
+"Sector Monetario/Asistencia Financiera"  # subdirectorio
+
+"http://www.bcv.org.ve/sites/default/files/1_3_24s1.xls"
+"http://www.bcv.org.ve/sites/default/files/1_3_24.xls"
+"http://www.bcv.org.ve/sites/default/files/1_3_24s.xlsx"
+
+#-Gobierno Central
+"Sector Monetario/Gobierno Central" # subdirectorio
+
+"http://www.bcv.org.ve/sites/default/files/1_2_14.xls"
+"http://www.bcv.org.ve/sites/default/files/1_3_32_1.xls"
+
+#-Reservas Bancarias Excedentes
+"Sector Monetario/Reservas Bancarias Excedentes"
+
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/1_1_4.xls"
+
+#-Tasas de interés de los instrumentos de política monetaria
+"Sector Monetario/Tasas de interés de los instrumentos de política monetaria" # subditorio
+
+"http://www.bcv.org.ve/sites/default/files/1_3_25.xls"
+"http://www.bcv.org.ve/sites/default/files/1_3_14_con_formula.xls"
+
+#-Sector Financiero -----------------------------------------------------------
+
+#-Tasa de interés
+"Sector Financiero/Tasas de interés"  # subdirectorio
+
+# Tasas de interés pasivos
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_6_diario.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_6_semanal_99.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_6_mensual_32.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_6_trimestral.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_6_semestral.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_6_anual.xlsx"
+
+# Tasas de interés activas
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_7_diario.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_7_semanal_100.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_7_mensual_33.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_7_trimestral.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_7_semestral.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_7_anual.xlsx"
+
+# Tasas de interés activas, según destino de crédito
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_8_diario.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_8_semanal_96.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_8_mensual_32.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_8_trimestral.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_8_semestral.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_8_anual.xlsx"
+
+# Tasas de interés activas, según condición juridica
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_9_diario.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_9_semanal.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_9_mensual.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_9_trimestral.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_9_semestral.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_9_anual.xlsx"
+
+# Tasas de interés de los seis bancos principales
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_2_15_semanal.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_2_15_mensual.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_2_15_anual.xlsx"
+
+# Tasa de interés. Crédito agrario
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_2_11.xls"
+
+# Tasa de interés. Refinanciamiento de deuda agrícola
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_2_8.xls"
+
+# Tasa de interés. Prestaciones sociales
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_3_18.xls"
+
+# Tasa de interés. Créditos al sector turismo
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_3_35.xls"
+
+# Tasa de interés. Máximas para créditos hipotecarios
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_3_40.xlsx"
+
+# Operaciones Interbancarias Overnight
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/1_3_29.xls"
+
+# Operaciones Interbancarias a Plazo
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/1_1_10.xls"
+
+# Mercado de Niveleación
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/1_1_5.xls"
+
+# Tasa de interés que devengarán los títulos valores
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/1_2_13.xls"
+"http://www.bcv.org.ve/sites/default/files/1_2_13.xls"
+
+# Características de las emisiones de títulos valores
+"http://www.bcv.org.ve/sites/default/files/3_1_2.xls"
+
+# Fijación de las tasas de interés
+"http://www.bcv.org.ve/sites/default/files/fijacion_de_tasas_de_interes.xls"
+
+# Tasa para operaciones de descuento, redescuento, reporto y anticipo
+"http://www.bcv.org.ve/sites/default/files/1_3_37.xls"
+
+#-Series históricas de tasas de interés
+"Sector Financiero/Series históricas de las tasas de interés"
+
+# Tasas de interés. Créditos hipotecarios indexados y adquisición de vehículo
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_3_27.xls"
+
+# Tasas de interés activas y pasivas. Bancos hipotecarios y de Inversión
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_2_7_hipotecarios_y_de_inversion_semanal.xls"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_3_16_hipotecario_y_de_inversion_mensual.xlsx"
+
+# Tasas de interés activas. Bancos comerciales y universales
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_2.xls"
+
+# Tasas de interés pasivas. Bancos comerciales y universales
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_1.xlsx"
+
+# Tasas de interés de certificados de participación
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_3.xls"
+
+# Tasas de interés activas y pasivas. Bancos comerciales y universales
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_3_15.xls"
+
+# Tasas de interés activas y pasivas. Seis principales bancos
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_6_17.xls"
+
+# Tasas de interés de certificados de participación
+# Bancos comerciales y universales
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_6s_certificado_diario_2004-2015.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_6s_certificado_semanal_2004-2015.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_6s_certificado_mensual_2004-2015.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_6s_certificado_trimestral_2004-2015.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_6s_certificado_semestral_2004-2015.xlsx"
+"http://www.bcv.org.ve/sites/default/files/GEE%20-%20Tasas%20de%20Interes/1_1_6s_certificado_anual_2004-2015.xlsx"
+
+#-Resúmenes de Balances de las Instituciones Interbancarias
+"Sector Financiero/Resúmenes de Balances de las Instituciones Interbancarias" # subditorio
+
+# Principales Cuentas Activas y Pasivas
+"http://www.bcv.org.ve/sites/default/files/1_2_9.xlsx"
+"http://www.bcv.org.ve/sites/default/files/1_2_9_15.xls"
+"http://www.bcv.org.ve/sites/default/files/1_2_9s.xls"
+
+#-Sector Externo --------------------------------------------------------------
+
+#-Tipos de Cambio de Referencia
+"Sector Externo/Tipos de Cambio de Referencia"  # subdirectorio
+
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b20.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a20.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d19.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c19.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b19.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a19.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d18.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c18_62.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b18_24.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a18_2.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d17.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c17.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b17.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a17.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d16.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c16.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b16.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a16.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d15.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c15.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b15.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a15.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d14.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c14.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b14.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a14.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d13.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c13.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b13.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a13.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d12.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c12.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b12.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a12.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d11.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c12.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b12.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a12.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d11.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c11.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b11.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a11.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d10.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c10.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b10.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a10.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d09.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c09.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b09.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a09.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d08.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c08.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b08.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a08.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d07.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c07.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b07.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a07.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d06.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c06.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b06.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a06.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d05.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c05.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b05.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a05.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d04.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c04.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b04.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a04.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d03.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c03.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b03.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a03.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d02.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c02.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b02.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a02.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d01.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c01.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b01.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a01.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2d00.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2c00.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2b00.xls"
+"http://www.bcv.org.ve/sites/default/files/EstadisticasGeneral/2_1_2a00.xls"
+
+
+# Tipo de Cambio de Referencia
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_1_1_tdc.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_2_1_tdc_101.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_3_2.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_5_3.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_1_1_tdc_457.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_2_1_tdc_97.xls"
+
+#-Balanza de Pagos
+"Sector Externo/Balanza de Pagos" # subditorio
+
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_1_t.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_1_a.xls"
+
+#-Comercio Exterior
+"Sector Externo/Comercio Exterior"  # subditorio
+
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/serie_trimestral_x_e_m_1997-_2019.xlsx"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/serie_anual_x_e_m_1997-_2018.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/serie_m_fob_1997-_2019_segun_sectores_y_destinos_econimicost.xlsx"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/serie_m_fob_1997-_2018_segun_sectores_y_destinos_econimicosa.xlsx"
+
+#-Inversión Extranjera
+"Sector Externo/Inversión Extranjera" # subditorio
+
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_3_t.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_3_a.xls"
+
+#-Reservas Internacionales
+"Sector Externo/Reservas Internacionales" # subditorio
+
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_1_1.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_2_1.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_5_2.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_3_1.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_13t.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_13a.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_12t.xlsx"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_12a.xlsx"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_3_3.xlsx"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_2_1_s1.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_1_1s.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_1_1_s1.xls"
+
+#-Posición de Inversión Internacional
+"Sector Externo/Posición de Inversión Internacional"  # subditorio
+
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_2_t.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_2_a.xls"
+
+#-Deuda Externa
+"Sector Externo/Deuda Externa"
+
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_4_t.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_4_a.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_6_t.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_6_a.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_8_1_t.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_8_1_a.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_5_t.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_5_a.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_7_t.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_externo/2_4_7_a.xls"
+
+#-Metodologías
+"Sector Externo/Metodologías"
+
+"http://www.bcv.org.ve/sites/default/files/documentos_metodologicos/metbp2004.pdf"
+"http://www.bcv.org.ve/sites/default/files/documentos_metodologicos/nmserie07iii14.pdf"
+
+#-Cuentas Nacionales ----------------------------------------------------------
+
+#-Producto Interno Bruto
+"Cuentas Nacionales/Producto Interno Bruto"
+
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/7_1_14_anual.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/7_1_7_anual.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/5_2_4_trim.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/5_2_4_anual.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/5_2_1_trim.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/5_2_1_anual.xls"
+
+#-Oferta y Demanda
+"Cuentas Nacionales/Oferta y Demanda" # subdirectorio
+
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/7_1_12_trim.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/7_1_12_anual.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/7_1_13_anual.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/7_1_8_anual.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/5_2_7_trim.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/5_2_7_anual.xls"
+
+#-Cuentas Consolidadas de la Nación
+"Cuentas Nacionales/Cuentas Consolidadas de la Nación"  # subdirectorio
+
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/7_1_10_anual.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/7_1_11_anual.xls"
+
+#-Matriz insumo producto
+"Cuentas Nacionales/Matriz insumo producto"  # subdirectorio
+
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/cab180x121.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/pxp121x121.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/axa121x121.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/cab25x25.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/pxp25x25.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/axa25x25.xls"
+
+#-Flujo de Fondos
+"Cuentas Nacionales/Flujo de Fondos"
+
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/5_3_7.xls"
+
+#-Series históricas
+"Cuentas Nacionales/Series históricas"  # subdirectorio
+
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/5_2_2_trim.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/5_2_2_anual.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/5_2_6_trim.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/5_2_6_anual.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/7_1_6_anual.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/7_1_1_anual.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/5_3_2_anual.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/7_1_3_anual.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/7_1_4_anual.xls"
+"http://www.bcv.org.ve/sites/default/files/cuentas_macroeconomicas/7_1_5_anual.xls"
+
+#-Metodologías
+"Cuentas Nacionales/Metodologías" # subdirectorio
+
+# Flujo de Fondos (aspectos teóricos)
+"http://www.bcv.org.ve/sites/default/files/documentos_metodologicos/flujofondos.pdf"
+
+# Formación bruta de capital fijo (Base 1997). Ficha técnica
+"http://www.bcv.org.ve/sites/default/files/documentos_metodologicos/fichatecnicafbkf.pdf"
+
+# Matriz insumo producto. Ficha técnica
+"http://www.bcv.org.ve/sites/default/files/documentos_metodologicos/fichatecnicamip.pdf"
+
+# Sistema de Cuentas Nacionales de Venezuela. Año Base 1997. (Documento Técnico)
+"http://www.bcv.org.ve/sites/default/files/documentos_metodologicos/docpracem.pdf"
+
+#-Indicadores Sectoriales -----------------------------------------------------
+
+#-Manufactura
+"Indicadores Sectoriales/Manufactura" # subdirectorio
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/indice_de_volumen_precio_y_valor_manufactura_serie_2007-2019.xlsx"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/indice_de_volumen_precio_y_valor_manufactura_serie_2007-2019_trimestral.xlsx"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/indice_de_volumen_precio_y_valor_manufactura_serie_2007-2019_anualizada.xlsx"
+
+#-Comercio
+"Indicadores Sectoriales/Comercio"  # subdirectorio
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/indice_general_de_volumen_y_valor_de_ventas_comerciales_al_mayor_y_al_detal_mensualbase_2007.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/indice_general_de_volumen_y_valor_de_ventas_comerciales_al_mayor_y_al_detal_trimestrabase_2007.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_sector_privado_no_financiero/indice_general_de_volumen_y_valor_de_ventas_comerciales_al_mayor_y_al_detal_anualbase_2007.xls"
+
+#-Metodologías
+"Indicadores Sectoriales/Metodologías"  # subdirectorio
+
+# Metodología del sistema integrado de indicadores de volumen,
+# precios y valor de la actividad manufacturera
+"http://www.bcv.org.ve/sites/default/files/documentos_metodologicos/metmanufac150104.pdf"
+
+# Metodología del sistema integrado de indicadores de volumen y
+# valor de la actividad comercial
+"http://www.bcv.org.ve/sites/default/files/documentos_metodologicos/documento_metodologico_de_las_actividades_comerciales.pdf"
+
+#-Mercado Laboral -------------------------------------------------------------
+
+#-Índice de Remuneraciones
+"Mercado Laboral/Índice de Remuneraciones de los Asalariados"  # subdirectorio
+
+# Índice de Remuneraciones de los Asalariados (IRE)
+"http://www.bcv.org.ve/sites/default/files/mercado_laboral_ire/3_1_1_indices_y_variaciones.xlsx"
+"http://www.bcv.org.ve/sites/default/files/mercado_laboral_ire/3_1_2_variaciones_acumuladas.xlsx"
+"http://www.bcv.org.ve/sites/default/files/mercado_laboral_ire/3_1_3_indices_y_var_promedio_anual.xlsx"
+
+# IRE por actividad económica del sector privado
+"http://www.bcv.org.ve/sites/default/files/mercado_laboral_ire/3_2_1_indices_ire_priv_ae.xlsx"
+"http://www.bcv.org.ve/sites/default/files/mercado_laboral_ire/3_2_2_variaciones_ire_priv_ae.xlsx"
+"http://www.bcv.org.ve/sites/default/files/mercado_laboral_ire/3_2_3_var_acum_ire_priv_ae.xlsx"
+"http://www.bcv.org.ve/sites/default/files/mercado_laboral_ire/3_2_4_ind_prom_anual_ire_priv_ae.xlsx"
+"http://www.bcv.org.ve/sites/default/files/mercado_laboral_ire/3_2_5_var_prom_anual_ire_priv_ae.xlsx"
+
+# IRE por grupos ocupacionales del sector privado
+"http://www.bcv.org.ve/sites/default/files/mercado_laboral_ire/3_3_1_indices_ire_priv_go.xlsx"
+"http://www.bcv.org.ve/sites/default/files/mercado_laboral_ire/3_3_2_variaciones_ire_priv_go.xlsx"
+"http://www.bcv.org.ve/sites/default/files/mercado_laboral_ire/3_3_3_var_acum_ire_priv_go.xlsx"
+"http://www.bcv.org.ve/sites/default/files/mercado_laboral_ire/3_3_4_ind_prom_anual_ire_priv_go.xlsx"
+"http://www.bcv.org.ve/sites/default/files/mercado_laboral_ire/3_3_5_var_prom_anual_ire_priv_go.xlsx"
+
+# IRE por grupos ocupacionales del sector público
+"http://www.bcv.org.ve/sites/default/files/mercado_laboral_ire/3_4_1_indices_ire_pub_go.xlsx"
+"http://www.bcv.org.ve/sites/default/files/mercado_laboral_ire/3_4_2_variaciones_ire_pub_go.xlsx"
+"http://www.bcv.org.ve/sites/default/files/mercado_laboral_ire/3_4_3_var_acum_ire_pub_go.xlsx"
+"http://www.bcv.org.ve/sites/default/files/mercado_laboral_ire/3_4_4_ind_prom_anual_ire_pu_go.xlsx"
+"http://www.bcv.org.ve/sites/default/files/mercado_laboral_ire/3_4_5_ind_prom_anual_ire_pu_go.xlsx"
+
+#-Metodologías
+"Mercado Laboral/Metodologías" # subdirectorio
+
+"http://www.bcv.org.ve/sites/default/files/documentos_metodologicos/metodologia_remuneracion.pdf"
+
+#-Indicadores de la Región Zuliana --------------------------------------------
+
+#-Precios
+"Indicadores de la Región Zuliana/Precios"  # subdirectorio
+
+# Índice de precios al consumidor del Área Metropolitana de Maracaibo (IPC-AMM)
+"http://www.bcv.org.ve/sites/default/files/indicadores_region_zuliana/4_4_1_1.xls"
+
+# IPC-AMM por agrupaciones
+"http://www.bcv.org.ve/sites/default/files/indicadores_region_zuliana/4_4_2_1.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_region_zuliana/4_4_2_2.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_region_zuliana/4_4_2_3.xls"
+"http://www.bcv.org.ve/sites/default/files/indicadores_region_zuliana/4_4_2_4.xls"
+
+# Series históricas IPC-AMM
+"http://www.bcv.org.ve/sites/default/files/indicadores_region_zuliana/4_4_3_1.xls"
+
+# Índice de precios productor manufacturero de la región zuliana (IPP-Zulia)
+"http://www.bcv.org.ve/sites/default/files/indicadores_region_zuliana/indices_precios_laspeyres_sin_iva_mensual_zulia.xls"
+
+#-Sectoriales
+"Indicadores de la Región Zuliana/Sectoriales"  # subdirectorio
+
+# Índices integrados de volumen y valor del sector manufacturero
+"http://www.bcv.org.ve/sites/default/files/indicadores_region_zuliana/indices_de_volumen_valor_preciospaasche_con_periodicidad_mensual_zulia.xls"
+
+# Índice de valor de la actividad comercial
+"http://www.bcv.org.ve/sites/default/files/indicadores_region_zuliana/indice_general_de_valor_de_ventas_comerciales_al_mayor_al_detal_y_de_vehiculos_mensual_zulia.xlsx"
+
+#-Billetes y Monedas ----------------------------------------------------------
+
+"Billetes y Monedas"  # subdirectorio
+
+# Ingresos de billetes
+"http://www.bcv.org.ve/sites/default/files/9_3_8_af.xls"
+
+# Egresos de monedas
+"http://www.bcv.org.ve/sites/default/files/9_3_7_af.xls"
+
+#-Minerales estratégicos ------------------------------------------------------
+
+#-Diamantes
+"Minerales estratégicos/Diamantes"  # subdirectorio
+
+"http://www.bcv.org.ve/system/files/documentos/2016globalsummary.pdf"
+"http://www.bcv.org.ve/system/files/documentos/2015globalsummary.pdf"
+"http://www.bcv.org.ve/system/files/documentos/2014globalsummary.pdf"
+"http://www.bcv.org.ve/system/files/documentos/2013globalsummary.pdf"
+"http://www.bcv.org.ve/system/files/documentos/2012globalsummary.pdf"
+"http://www.bcv.org.ve/system/files/documentos/2011globalsummary.pdf"
+"http://www.bcv.org.ve/system/files/documentos/2010globalsummary.pdf"
+"http://www.bcv.org.ve/system/files/documentos/2009globalsummary.pdf"
+"http://www.bcv.org.ve/system/files/documentos/2008globalsummary.pdf"
+"http://www.bcv.org.ve/system/files/documentos/2007globalsummary.pdf"
+"http://www.bcv.org.ve/system/files/documentos/2006globalsummary.pdf"
+"http://www.bcv.org.ve/system/files/documentos/2005globalsummary.pdf"
+"http://www.bcv.org.ve/system/files/documentos/2004globalsummary.pdf"
+
+#-Oro
+"Minerales estratégicos/Oro"   # subdirectorio
+
+# Promedio precios del oro
+"http://www.bcv.org.ve/sites/default/files/fixing_am_2020.xlsx"
+"http://www.bcv.org.ve/sites/default/files/fixing_am_2019.xlsx"
+"http://www.bcv.org.ve/sites/default/files/fixing_am_2018.xlsx"
+"http://www.bcv.org.ve/sites/default/files/ponzatroy2017.xlsx"
+"http://www.bcv.org.ve/sites/default/files/ponzatroy2016.xlsx"
+"http://www.bcv.org.ve/sites/default/files/ponzatroy2015.xlsx"
+
+# Compras de oro en el mercado interno
+"http://www.bcv.org.ve/sites/default/files/historico_compras_de_oro_2018.xlsx"
